@@ -106,5 +106,5 @@ Cám ơn bạn đã sử dụng!
 Document: http://vddos.voduy.com
 
 ```
-Still in beta, run at own risk! This it provided without any warranty!
+Still in beta, use at your own risk! It is provided without any warranty!
 ```
